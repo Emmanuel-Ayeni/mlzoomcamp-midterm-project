@@ -40,7 +40,9 @@ This will start the Flask application, and you should see an output similar to:
   ![image](https://github.com/user-attachments/assets/e1c3539b-36ca-4664-addb-0eb323a80db9)
 
 * Prediction result is noted after the last cell.
-* Also Check the Service log message as 200: OK or indicates a successful request.
+* Check the Service log message as 200: OK or indicates a successful request.
+![image](https://github.com/user-attachments/assets/af0d84f2-adcc-43bd-8689-25bd558535e5)
+
   
 ### Interfacing with the Prediction Endpoint
 #### Using Python
