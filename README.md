@@ -54,9 +54,12 @@ This will start the Flask application, and you should see an output similar to:
 
 ### Build the Docker image:
 * $ docker build -t attrition-predict-app .
+![image](https://github.com/user-attachments/assets/47f85cf6-59fa-4504-a502-91a352c6b7e0)
 
 ### Run the container:
 * $ docker run -p 9696:9696 attrition-predict-app
+  ![image](https://github.com/user-attachments/assets/71bb161c-9191-4ad4-8f4a-c9b718f2a91c)
+
 ### Use the same steps above (curl, Postman, or Python) to interact with the application.
 
 
