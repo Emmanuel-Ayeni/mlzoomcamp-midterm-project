@@ -1,4 +1,12 @@
 # ML-Zoomcamp-Midterm-Project
+
+## Introduction
+<p>This dataset contains employee information, including their demographics, job role, job satisfaction, work-life balance, and whether they have left the company (attrition).</p>
+
+The focus of the task is to build predictive models which can identify which employees are at a higher risk of leaving the company. This could help in taking some proactive measures to retain valuable employees. This dataset is collected for a Human resource application and the source is from Kaggle: https://www.kaggle.com/datasets/itssuru/hr-employee-attrition
+
+Attrition: Represents the measure of employees leaving a company voluntarily or involuntarily. HR uses the figure to track and understand how things are going at a company
+
 Following these instructions, you can easily set up, run, and interact with the Flask-based prediction service.
 The step-by-step instructions, start from setting up the environment with pipenv to interfacing with the prediction endpoint.
 
@@ -48,7 +56,6 @@ This will start the Flask application, and you should see an output similar to:
 #### Using Python
 #### Using Curl
 #### Using Postman
-## ..................................................................................................
 
 ## Deploying with Docker
 
