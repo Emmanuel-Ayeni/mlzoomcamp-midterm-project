@@ -31,6 +31,9 @@ This will start the Flask application, and you should see an output similar to:
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 ### Interfacing with the Prediction Endpoint
+#### Using Python
+#### Using Curl
+#### Using Postman
 ## ..................................................................................................
 
 ## Deploying with Docker
@@ -39,7 +42,7 @@ This will start the Flask application, and you should see an output similar to:
 * docker build -t attrition-predict-app .
 
 ### Run the container:
-* docker run -p 5000:5000 attrition-predict-app
+* docker run -p 9696:9696 attrition-predict-app
 ### Use the same steps as above (curl, Postman, or Python) to interact with the application.
 
 
