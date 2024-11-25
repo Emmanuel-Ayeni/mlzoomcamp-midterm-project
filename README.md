@@ -31,6 +31,17 @@ Start the Flask application by running the app.py script:
 This will start the Flask application, and you should see an output similar to:
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+  ![image](https://github.com/user-attachments/assets/d3b9e392-700f-4da8-b12f-9dcac744a672)
+
+* Open a new terminal window to interact with the web service.
+* Start up a Jupyter notebook.
+* Open up the predict_test.ipynb and use the test to run JSON formatted data for the prediction service.
+
+  ![image](https://github.com/user-attachments/assets/e1c3539b-36ca-4664-addb-0eb323a80db9)
+
+* Prediction result is noted after the last cell.
+* Also Check the Service log message as 200: OK or indicates a successful request.
+  
 ### Interfacing with the Prediction Endpoint
 #### Using Python
 #### Using Curl
